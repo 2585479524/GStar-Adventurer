@@ -1,0 +1,8 @@
+aiid,aiName,imgUrl,patrolDistance,patrolSpeed,followDistance,followSpeed,attackDistance,jumpHeight,attackPower,hp,isStepDeath,isHurtBlock,isBurstBlock,isGravityBlock,attackOtherAi,attackBlock,fallDeathHeight,describe,attack,health,speed
+0,汤包包,Texture/Monster_0,1,1,0,0,0,0,0,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,0,路过的汤包包，正人畜无害地逛街中，<color=#6f8a01>它毫无攻击力</color>。,低,低,低
+1,热狗龟龟,Texture/Monster_1,2,2,7,3,1.5,0,1,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,3,<color=#6f8a01>普通的速度，普通的攻击性</color>，好像没有什么特别的...对了！名字也挺普通的！,中,中,中
+2,跳跳鸡,Texture/Monster_2,2,2,7,3,1.5,1,1,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,0,蕉蕉喜欢到处跑来跑去，<color=#6f8a01>蹦蹦跳跳</color>，不过新朋友们有点受不了她的”热情“。,中,低,高
+3,大饺龙,Texture/Monster_3,2,1,7,1,1.5,0,3,5,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,0,”其实被咬了还蛮疼的“，在回答自己害怕什么时，看似<color=#6f8a01>无敌</color>的大饺龙委屈地说。,高,高,中
+4,牛牛犬,Texture/Monster_4,1,2,7,3,2,0,1,2,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,3,牛牛犬总是饿着肚子，<color=#6f8a01>无论见到什么生物都想猛啃一口。</color>,中,中,中
+5,莓羊羊,Texture/Monster_5,2,1,7,-3.5,0,1,0,2,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,0,人们关于莓羊羊知之甚少，不过大家都同意的是她害羞且胆小，见到其他人<color=#6f8a01>转身就跑</color>。,低,中,高
+6,骨骨鱼,Texture/Monster_6,0,0,6,2,1.5,0,2,3,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,0,浑身发着一股怪味，沿途撒出来的<color=#6f8a01>有毒”汤汁“</color>，或许骨骨鱼以前还是受欢迎的。,中,中,中

@@ -1,0 +1,2000 @@
+fileFormatVersion: 2
+guid: 709c0c0069863a344a548b45c86eb28e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cube 1_0
+    21300002: Cube 1_1
+    21300004: Cube 1_2
+    21300006: Cube 1_3
+    21300008: Cube 1_4
+    21300010: Cube 1_5
+    21300012: Cube 1_6
+    21300014: Cube 1_7
+    21300016: Cube 1_8
+    21300018: Cube 1_9
+    21300020: Cube 1_10
+    21300022: Cube 1_11
+    21300024: Cube 1_12
+    21300026: Cube 1_13
+    21300028: Cube 1_14
+    21300030: Cube 1_15
+    21300032: Cube 1_16
+    21300034: Cube 1_17
+    21300036: Cube 1_18
+    21300038: Cube 1_19
+    21300040: Cube 1_20
+    21300042: Cube 1_21
+    21300044: Cube 1_22
+    21300046: Cube 1_23
+    21300048: Cube 1_24
+    21300050: Cube 1_25
+    21300052: Cube 1_26
+    21300054: Cube 1_27
+    21300056: Cube 1_28
+    21300058: Cube 1_29
+    21300060: Cube 1_30
+    21300062: Cube 1_31
+    21300064: Cube 1_32
+    21300066: Cube 1_33
+    21300068: Cube 1_34
+    21300070: Cube 1_35
+    21300072: Cube 1_36
+    21300074: Cube 1_37
+    21300076: Cube 1_38
+    21300078: Cube 1_39
+    21300080: Cube 1_40
+    21300082: Cube 1_41
+    21300084: Cube 1_42
+    21300086: Cube 1_43
+    21300088: Cube 1_44
+    21300090: Cube 1_45
+    21300092: Cube 1_46
+    21300094: Cube 1_47
+    21300096: Cube 1_48
+    21300098: Cube 1_49
+    21300100: Cube 1_50
+    21300102: Cube 1_51
+    21300104: Cube 1_52
+    21300106: Cube 1_53
+    21300108: Cube 1_54
+    21300110: Cube 1_55
+    21300112: Cube 1_56
+    21300114: Cube 1_57
+    21300116: Cube 1_58
+    21300118: Cube 1_59
+    21300120: Cube 1_60
+    21300122: Cube 1_61
+    21300124: Cube 1_62
+    21300126: Cube 1_63
+    21300128: Cube 1_64
+    21300130: Cube 1_65
+    21300132: Cube 1_66
+    21300134: Cube 1_67
+    21300136: Cube 1_68
+    21300138: Cube 1_69
+    21300140: Cube 1_70
+    21300142: Cube 1_71
+    21300144: Cube 1_72
+    21300146: Cube 1_73
+    21300148: Cube 1_74
+    21300150: Cube 1_75
+    21300152: Cube 1_76
+    21300154: Cube 1_77
+    21300156: Cube 1_78
+    21300158: Cube 1_79
+    21300160: Cube 1_80
+    21300162: Cube 1_81
+    21300164: Cube 1_82
+    21300166: Cube 1_83
+    21300168: Cube 1_84
+    21300170: Cube 1_85
+    21300172: Cube 1_86
+    21300174: Cube 1_87
+    21300176: Cube 1_88
+    21300178: Cube 1_89
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cube 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5636.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9706c025bd75d4b4caf2773cb64594d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5636.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869e1d723324e94fb64c82a0e71a597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5636.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f8ea8ae9c3b7b49b1f89599961c8ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5636.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47f72998e750a4cbfcfd29c9c8e4c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5636.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb639003cb47714788b8da670474092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5636.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd429e54bb855249b7465ddbe0ce586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5234.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88721268c72df904286dd6e285594745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5234.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed81c7c532aa5428fa609873704a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5234.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf6376adca0a584aa43afdfeb1cd14f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5234.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2935b026637c44ca4eec21bff24453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5234.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd15b4cbf9e4c4c448d7c67fac8ccd3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_11
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5234.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17179bc7ce8569a408ff6ef9aed943b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4832.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885588ddbbe3324782e27ac09410346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4832.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea235de987d93543b699c0fce9b9102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4832.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e2b0ddf4b02db4ab8999b756edf0ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4832.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e172dbb5265e4ab4aa08ddb0cdedb11b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4832.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a79b7bf5bebb429e7317530786611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_17
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4832.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa90c160199e32e4fa766f20d53029f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4430.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa289de91604aa4cbc1d18529db3d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4430.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ef8a913c403144a67aa460a47232b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4430.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8072b740d3ea09342b53ef115aaea7c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4430.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949a4371db289e24e9a7b955900feb0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4430.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b1f008244c5148bf4e252037edf98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_23
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4430.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24f1b347a0d894d912987ce3aa312d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4028.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c85a30875a2f8c4199fa691c5743398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4028.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb4820bb6ee2b9418c9559721730015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4028.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0fd055f2714354d9db77a5012fd3c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4028.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62789ee80a050d4c80c44e6a543c014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_28
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4028.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d3e10d8c276b9418b07b2fb3065b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4028.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e688414fdafd7224397bbcece161fbd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3626.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c34b06ff9e054db7a4eae25a4359e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3626.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace222e36c5b79a46ac744d7883c9941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3626.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319e0ffb9b0a894bb45438e4e45aca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3626.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5da68b6b356c545be34d42f4a7b48e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3626.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee986f99e78d4040abb0ee80632e279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_35
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3626.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7cf7eba287ae549aea4a1f62b571b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3224.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6882b2e92bbe947a95fb8b3e61362f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3224.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0f264ce7a565d4b9bdc10808a89d23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3224.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca30f018f9b7044b637c11cba9c383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_39
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3224.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff8e02d28310d408b280ad3d5cb102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_40
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3224.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395aad9979a97db48a55bddcb8efdd9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_41
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3224.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d7e5a553fe20c48a6673d3aef2599a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2822.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eea045e265f0544818c4e84073f51e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2822.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b257a74ccbbac2040915e22b4f3ea82f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2822.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba02883ef050546b308f6f31a6d446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2822.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e48b278dfbf9d4a97f51ad50b061da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2822.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd9b01fd8bd454b81f5c7208a96f17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_47
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2822.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38052ea90731d9d46a29821d2a8f82a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2420.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b98c126cb82e4b92585aaa7c54dfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2420.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49263873f0ad218428dfda51ab1444c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_50
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2420.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1c02451fac6cd4ba09f41481a8cfc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2420.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0397c0d6fcb07d4cb576366b2186502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_52
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2420.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce337848c50a7f43b4c2777af3cfe5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_53
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2420.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904e97b84db2ed342be66c7ecee9ba62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2018.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baad8532e6180f4c8af92c87354a189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2018.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474bfb20f082f04cbab5ec37ae30d8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2018.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce67bf3853f7b42b638bdbfb47c650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_57
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2018.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c676b1cd2f707241a9bda2eb3460107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_58
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2018.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd863fd95b5d46468d583fd8808f567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_59
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2018.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57de135de687ba540ab17567e9a44889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4199a55332914e8b4e741e21a85a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1616.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3272b07431c274aabc88ea85b7782a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1616.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4305bc58686e9e149b3515116a1960b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1616.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adc5d924faf25c44a0574bbad3a1a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_64
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1616.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b437872226546429e30a533160912c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_65
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1616.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124f0554d887e0645b35b8bbd4b57aef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1214.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7f46cc08e5ed54085cfd5effa8db78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1214.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606eb85e775bdb940943cb7bbae66d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1214.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9697dc52b6eed384c9ebfb9d609f0099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1214.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bed377fe6eb6540b87ebc39ab6f8a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_70
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1214.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1afd973bfd0744db0d3ec4bd5511c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_71
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1214.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b0d68e1420e1b44bc0431804a48438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250cbbcbcccc72245a7d39e0e1884e45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 812.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091dd0e0befea1b4ea0a4f2eb6586ff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 812.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b748376ae8188540862555592ffeb7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 812.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295cfe9d06b7f349a2c801d54b28d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_76
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 812.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e01d8370aec44ebdca60cfcf75a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_77
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 812.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d402250a762274f800bc8efb46c067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08eb1f3eb03de54c90c35e35eb9ac31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 410.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae04786a5d576f4cbac7819ace4a201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 410.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571efdf56c67a1e4ba661203a667e193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_81
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 410.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fa694d3ff159944ab9b283b7c6ccb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_82
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 410.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b77badeb88479841a3e98cef0bc95c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_83
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 410.4
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a98b5a2fb419441be8c27cc51ea55f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8.399994
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d5e3729d6d0954b8bf1a2b25800272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8.399994
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cedfd48cd43cd4395a9c00fcf3120f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_86
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 8.399994
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0940aca27dd814bab7b136b2f274d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_87
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 8.399994
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99403dda1778f9341aeec7df4ee116c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_88
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 8.399994
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b511dfffde97ce4ca23d28f3226f027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cube 1_89
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8.399994
+        width: 400
+        height: 402.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42064a709c4540b44b11ca8847082d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e4ebd58e5d70ce646a4482497a052c96
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

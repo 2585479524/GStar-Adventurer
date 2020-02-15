@@ -1,0 +1,16 @@
+cubeId,cubeName,imgUrl,describe,tag
+0,治疗方块,Texture/Cube_0,散发着一股温暖的气息，传说吞下之人能得到祝福。,特殊
+1,毒液方块,Texture/Cube_1,咕噜噜地冒着气泡，任何人踩上去都会中毒。,特殊
+2,炸裂方块,Texture/Cube_2,小心搬运，注意爆炸。击中怪物会炸开。,特殊
+3,坚固方块,Texture/Cube_3,坚不可摧，无法破坏。,特殊
+4,重力方块,Texture/Cube_4,不可悬浮，被砸中会受伤。,特殊
+5,火龙果方块,Texture/Cube_5,清甜嫩滑的火龙果,普通
+6,黄瓜方块,Texture/Cube_6,清脆可口的黄瓜,普通
+7,橙子方块,Texture/Cube_7,味清甜香的橙子,普通
+8,月饼方块,Texture/Cube_8,口感丰厚的月饼,普通
+9,豆腐方块,Texture/Cube_9,绵软嫩滑的豆腐,普通
+10,红烧肉方块,Texture/Cube_10,肥瘦相间的红烧肉,普通
+11,奶酪方块,Texture/Cube_11,奶香浓郁的奶酪,普通
+12,抹茶蛋糕方块,Texture/Cube_12,清爽不腻的抹茶,普通
+13,饼干方块,Texture/Cube_13,酥脆香口的小饼干,普通
+14,蛋糕方块,Texture/Cube_14,入口即化的蛋糕,普通

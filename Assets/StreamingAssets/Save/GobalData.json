@@ -1,0 +1,54 @@
+{
+  "LevelMess": [
+    {
+      "Name": "1.启程的蛋糕盒",
+      "diff": 0,
+      "EatPudding": 0,
+      "IsPass": false
+    },
+    {
+      "Name": "2.豆腐块上的汤包包",
+      "diff": 1,
+      "EatPudding": 0,
+      "IsPass": false
+    },
+    {
+      "Name": "3.小猎人训练课",
+      "diff": 1,
+      "EatPudding": 0,
+      "IsPass": false
+    },
+    {
+      "Name": "4.会下落的神奇方块",
+      "diff": 1,
+      "EatPudding": 0,
+      "IsPass": false
+    },
+    {
+      "Name": "5.不要停下来啊！",
+      "diff": 2,
+      "EatPudding": 0,
+      "IsPass": false
+    },
+    {
+      "Name": "6.跳！跳！跳！",
+      "diff": 3,
+      "EatPudding": 0,
+      "IsPass": false
+    },
+    {
+      "Name": "7.迷之城",
+      "diff": 3,
+      "EatPudding": 0,
+      "IsPass": false
+    },
+    {
+      "Name": "8.空中接舷战！",
+      "diff": 4,
+      "EatPudding": 0,
+      "IsPass": false
+    }
+  ],
+  "CubeFirst": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ],
+  "MonsterFirst": [ false, false, false, false, false, false, false ]
+}
