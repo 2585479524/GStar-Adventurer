@@ -1,7 +1,7 @@
 # GStar-Adventurer
 
 <div align=center>
-  <img height="250" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/logo.jpg"/>
+  <img height="250" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/logo.jpg"/><br>
   
   <img height="250" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/ChooseLevel.jpg"/><br>
   
