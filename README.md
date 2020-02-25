@@ -1,11 +1,11 @@
 # GStar-Adventurer
 
 <div align=center>
-  <img height="150" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/logo.jpg"/><br>
+  <img height="250" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/logo.jpg"/><br>
   
-  <img height="150" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/ChooseLevel.jpg"/><br>
+  <img height="250" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/ChooseLevel.jpg"/><br>
   
-  <img height="150" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/Level.jpg"/><br>
+  <img height="250" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/Level.jpg"/><br>
 </div>
 
 <hr>
@@ -32,8 +32,12 @@
 
 ## 关卡编辑器
 
+<div align=center>
   <img height="150" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/Edit.jpg"/><br>
+</div>
 
 ## 图鉴系统
 
+<div align=center>
   <img height="150" src="https://github.com/2585479524/git_pic/blob/master/GStar-Adventurer/Illustration.jpg"/><br>
+</div>
